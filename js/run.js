@@ -3,5 +3,6 @@ const run = function run(runName, fn, ...restParams) {
 
   var result = fn(...restParams);
 
-  console.log(`fn ${runName} returns the result: `, result);
+  console.log(`fn ${runName} returns the result: `);
+  console.dir(result);
 }
