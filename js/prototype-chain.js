@@ -6,7 +6,7 @@
     // run('objectCreate', objectCreate);
 
     function objectCreate(target) {
-      if (typeof target !== 'object') throw new Error('need a object type');
+      if (typeof target !== 'object') throw new Error('The first parameter is not of object type');
 
       var obj = {};
       Object.setPrototypeOf(obj, target);
