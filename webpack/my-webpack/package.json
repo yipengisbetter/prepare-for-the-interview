@@ -1,0 +1,15 @@
+{
+  "name": "my-webpack",
+  "version": "1.0.0",
+  "description": "my webpack",
+  "main": "index.js",
+  "bin": {
+    "my-webpack": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["webpack", "write-webpack", "my-webpack"],
+  "author": "yipengisbetter",
+  "license": "ISC"
+}
