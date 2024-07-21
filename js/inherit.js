@@ -29,7 +29,7 @@
       A.apply(this, arguments);
     }
 
-    run("inherit", inherit, AA, A, "AA");
+    run("inherit", inherit, AA, A);
 
   }
 )(window, document);
