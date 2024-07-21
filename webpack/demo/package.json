@@ -1,0 +1,12 @@
+{
+  "name": "my-webpack-demo",
+  "version": "1.0.0",
+  "description": "my webpack demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["my-webpack-demo", "demo", "webpack"],
+  "author": "yipengisbetter",
+  "license": "ISC"
+}
